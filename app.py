@@ -2,8 +2,8 @@
 """
 Created on Sat Nov  2 17:15:35 2024
 
-@author: G Sreekar
-22835A6604
+@author: CH Vishnu Vardhan
+22835A6602
 CSE(AIML)
 IV rth Year First Semester
 GURUNANAK INSTITUTE OF TECHNOLOGY,Ibrahimpatanam
@@ -86,7 +86,7 @@ def index():
     </head>
     <body>
         <h2>Diabetes Prediction Form</h2>
-        <h6>by   G Sreekar<br>22835A6604<br>CSE(AIML)<br> IV rth Year First Semester<br>GURUNANAK INSTITUTE OF TECHNOLOGY,Ibrahimpatanam<br>
+        <h6>by   CH Vishnu Vardhan<br>22835A6602<br>CSE(AIML)<br> IV rth Year First Semester<br>GURUNANAK INSTITUTE OF TECHNOLOGY,Ibrahimpatanam<br>
         <form id="diabetesForm" method="post" action="/predict">
             <label for="pregnancies">Pregnancies:</label>
             <input type="number" name="Pregnancies" required><br>
